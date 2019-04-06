@@ -7,3 +7,4 @@ For Human detection task, I have performed object detection using yolo and then 
 If any person is detected with the confidance higher than our threshold confidence value then we output that human is detected.
 
 For now, you have to manually change the image location in code, as I will be adding argument parser shorlty.
+Also you can use image of any size.
